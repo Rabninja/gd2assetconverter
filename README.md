@@ -18,6 +18,6 @@ Features:
 
 Getting Started:
  
-1. Download and extract the zip.
+1. Download and extract dist.zip.
  
 2. Simply open up gd2ac and run gd2ac.exe.
