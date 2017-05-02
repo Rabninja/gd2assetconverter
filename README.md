@@ -11,13 +11,17 @@ Features:
 * Easy asset manipulation.
  
   o Change format type.
- 
+  
+  o Modify asset name.
+  
+  o Specify extra asset information such as font size and sprite cell width/height.
+  
 * Simple and quick sprite manipulation.
  
 * Save your project and come back in a later time.
 
 Getting Started:
  
-1. Download and extract the zip.
+1. Download and extract dist.zip.
  
-2. Simply open up gd2ac and run gd2ac.exe.
+2. Simply open up dist and run gd2ac.exe.
