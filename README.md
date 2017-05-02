@@ -11,7 +11,11 @@ Features:
 * Easy asset manipulation.
  
   o Change format type.
- 
+  
+  o Modify asset name.
+  
+  o Specify extra asset information such as font size and sprite cell width/height.
+  
 * Simple and quick sprite manipulation.
  
 * Save your project and come back in a later time.
