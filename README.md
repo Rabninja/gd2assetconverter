@@ -22,6 +22,8 @@ Features:
 
 Getting Started:
  
-1. Download and extract dist.zip.
+1. Go to the release page and download a suitable version.
  
-2. Simply open up dist and run gd2ac.exe.
+2. Extract the files and run gd2ac.exe or GD2AssetConverter.jar depending on the version you downloaded.
+
+3. Once you are running the program click the help button located in the toolbar.
